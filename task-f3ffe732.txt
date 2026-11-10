@@ -1,0 +1,4 @@
+﻿Task ID: #F3FFE732
+UUID: f3ffe732-6e99-4f90-a718-fb47d1fd5846
+Title: Kiem tra hien thi TaskGitHubChip tren the Kanban
+Time: 11/10/2026 14:42:55
